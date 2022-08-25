@@ -1,3 +1,9 @@
+# Svete & Rick And Morty API
+
+This is a simple Svelte web application using Rick and Morty API, fetch API and Bootswatch
+
+[Demo](https://charlesvp15.github.io/svelte-rickandmort/)
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
