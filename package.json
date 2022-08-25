@@ -1,0 +1,23 @@
+{
+   "name": "svelte-rickandmorty",
+   "private": true,
+   "version": "0.0.0",
+   "type": "module",
+   "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "deploy": "gh-pages -d dist"
+   },
+   "devDependencies": {
+      "@sveltejs/vite-plugin-svelte": "^1.0.1",
+      "eslint": "^8.22.0",
+      "gh-pages": "^4.0.0",
+      "svelte": "^3.49.0",
+      "vite": "^3.0.7",
+      "vite-plugin-eslint": "^1.8.1"
+   },
+   "dependencies": {
+      "bootswatch": "^5.2.0"
+   }
+}
