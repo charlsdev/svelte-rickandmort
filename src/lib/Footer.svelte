@@ -1,5 +1,5 @@
 <footer class="footer">
-   Creado por <b>CharlsDEV</b> || © Todos los derechos reservados.
+   Creado por <b>charlsdev</b> || © Todos los derechos reservados.
 </footer>
 
 <style>
